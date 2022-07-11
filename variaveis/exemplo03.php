@@ -7,9 +7,9 @@ $ano = 1975;
 $salario = 5500.99;
 $bloqueado = false;
 
+//...indices        0          1         2
 $frutas = array("abacaxi", "laranja", "manga");
-
-echo $frutas[2];
+echo $frutas[2]; //..exibe: manga
 echo "<br/>";
 
 
